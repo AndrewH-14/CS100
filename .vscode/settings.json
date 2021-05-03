@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sstream": "c",
+        "stdlib.h": "c",
+        "string.h": "c"
+    },
+    "python.pythonPath": "c:\\Users\\achan\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
+}

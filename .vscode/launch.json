@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+    {
+    "name": "gcc.exe debug active file",
+    "type": "cppdbg",
+    "request": "launch",
+    "program": "${fileDirname}\\a.exe",
+    "args": [],
+    "stopAtEntry": false,
+    "cwd": "${workspaceFolder}",
+    "externalConsole": true,
+    "MIMode": "gdb",
+    "miDebuggerPath": "C:\\cygwin64\\bin\\gdb.exe",
+    }
+    ]
+   }
