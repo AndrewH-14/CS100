@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
+// To run in LINUX run gcc project1.c -lm
+
 int main () {
     int numCups;
     int numCandy;
